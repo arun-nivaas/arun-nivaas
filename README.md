@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arun Nivaas AR C
 
 🎓 ECE Graduate | 🤖 Aspiring AI/ML Engineer | 📱 Ex-Android Developer turned NLP Enthusiast  
-📍 From Tamil Nadu, India 🇮🇳 | 🌐 Learning German & wnat to exploring Europe  
+📍 From Tamil Nadu, India 🇮🇳 | 🌐 Learning German & want to exploring Europe  
 🔬 Focused on building real-world AI tools using Transformers, Streamlit, and Hugging Face
 
 ---
