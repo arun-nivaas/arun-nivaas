@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Arun Nivaas AR C
 
-🎓 ECE Graduate | 🧠 NLP & LLM Enthusiast | 🤖 Aspiring AI/ML Engineer | 📱 Ex-Android Developer
+🎓 ECE Graduate | 🧠 NLP & LLM Enthusiast | 🤖 Aspiring AI/ML Engineer | 📱 Ex-Android Developer |
 📍 Tamil Nadu, India 🇮🇳 | 🌐 Learning German, Exploring Europe
 
 💡 Passionate about building AI-powered applications with Transformers, LLMs, and RAG pipelines.
