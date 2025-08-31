@@ -4,7 +4,6 @@
 📍 Tamil Nadu, India 🇮🇳 | 🌐 Learning German, Exploring Europe
 
 💡 Passionate about building AI-powered applications with Transformers, LLMs, and RAG pipelines.
-
 ---
 
 🔥 Current Focus
@@ -35,11 +34,11 @@ A smart research assistant powered by Google Gemini LLM with Retrieval-Augmented
 ## 🛠️ Tech Stack & Skills
 
 ```text
-💻 Programming Languages: Python, Java, SQL, Kotlin  
-⚙️ AI/ML Tools: Hugging Face, PyTorch, TensorFlow, Scikit-learn  
-📊 NLP & LLMs: Transformers, Word2Vec, CRF, LSTM, BERT, DistilBERT, Large Language Models (LLMs), RAG, Agents 
-🧱 Web Frameworks: Streamlit, Flask  
-🔧 DevOps & Deployment: Git, GitHub, Docker (learning), Hugging Face Hub
+💻 Programming Languages: Python | Java | SQL | Kotlin  
+⚙️ AI/ML Tools: Hugging Face | PyTorch | TensorFlow | Scikit-learn  
+📊 NLP & LLMs: Transformers | Word2Vec | CRF | LSTM | BERT | DistilBERT | Large Language Models (LLMs) | RAG | Agents 
+🧱 Web Frameworks: Streamlit | Flask  
+🔧 DevOps & Deployment: Git | GitHub | Docker (learning) | Hugging Face Hub
 ```
 
 ## 🏆 Achievements
