@@ -20,7 +20,7 @@
 
 A smart research assistant powered by Google Gemini LLM with Retrieval-Augmented Generation (RAG) and multi-agent tools (Wikipedia, YouTube, Semantic Scholar). The app enables interactive PDF-based QA (up to 200MB) and delivers structured, multi-source insights through an intuitive Streamlit dashboard.
 
-🔗 [Live Demo](https://llm-001-research-assistant.streamlit.app/) | 📦 [GitHub Repo](https://github.com/arunnivaas/EntiScope-NER-App)  
+🔗 [Live Demo](https://llm-001-research-assistant.streamlit.app/) | 📦 [GitHub Repo](https://github.com/arun-nivaas/LLM-001-Research-Assistant)  
 
 ## 🧠 Features
 
