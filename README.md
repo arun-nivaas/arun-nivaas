@@ -1,12 +1,15 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=blue&lines=Hi,+I'm+Arun+Nivaas;AI/ML+Engineer+in+Progress;NLP+%26+LLMs+Enthusiast;Ex-Android+Developer)
+
 # 👋 Hi, I'm Arun Nivaas AR C
 
 🎓 ECE Graduate | 🧠 NLP & LLM Enthusiast | 🤖 Aspiring AI/ML Engineer | 📱 Ex-Android Developer
 📍 Tamil Nadu, India 🇮🇳 | 🌐 Learning German, Exploring Europe
 
 💡 Passionate about building AI-powered applications with Transformers, LLMs, and RAG pipelines.
+
 ---
 
-🔥 Current Focus
+## 🔥 Current Focus
 
 - 🤖 AI Research Assistant & Chatbot (LLMs + RAG)
 - 📚 Mastering Large Language Models
