@@ -19,7 +19,8 @@
 
 A smart research assistant powered by Google Gemini LLM with Retrieval-Augmented Generation (RAG) and multi-agent tools (Wikipedia, YouTube, Semantic Scholar). The app enables interactive PDF-based QA (up to 200MB) and delivers structured, multi-source insights through an intuitive Streamlit dashboard.
 
-🔗 [Live Demo](https://llm-001-research-assistant.streamlit.app/) | 📦 [GitHub Repo](https://github.com/arun-nivaas/LLM-001-Research-Assistant)  
+
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://llm-001-research-assistant.streamlit.app/) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-arun--nivaas-black?style=for-the-badge&logo=github)](https://github.com/arun-nivaas/LLM-001-Research-Assistant) 
 
 ## 🧠 Features
 
@@ -46,5 +47,12 @@ A smart research assistant powered by Google Gemini LLM with Retrieval-Augmented
 - 🎓 Scaler Certified in Natural Language Processing
 - 🏗️ Built production-ready NLP/LLM apps (NER, Sentiment Analysis, Research Assistant)
 - 💼 2.3 years experience as Software Engineer (Android → AI/ML transition)
+
+
+
+
+
+
+
 
 
